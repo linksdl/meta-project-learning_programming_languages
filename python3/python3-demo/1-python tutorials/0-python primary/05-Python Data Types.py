@@ -16,7 +16,7 @@
 Python Data Types
 Built-in Data Types
 
-In programming, data type is an important concept.
+In programming, 数据类型 is an important concept.
 
 Variables can store data of different types, and different types can do different things.
 
@@ -34,17 +34,17 @@ Binary Types   : bytes, bytearray, memoryview
 
 '''
 Getting the Data Type
-You can get the data type of any object by using the type() function:
+You can get the 数据类型 of any object by using the type() function:
 '''
 
-# You can get the data type of any object by using the type() function:
-# Example, print the data type of the variable x:
+# You can get the 数据类型 of any object by using the type() function:
+# Example, print the 数据类型 of the variable x:
 x = 5
 print(type(x))
 
 '''
 Setting the Data Type
-In Python, the data type is set when you assign a value to a variable:
+In Python, the 数据类型 is set when you assign a value to a variable:
 '''
 
 # Example
@@ -107,7 +107,7 @@ print(x, type(x))
 
 '''
 Setting the Specific Data Type
-If you want to specify the data type, you can use the following constructor functions:
+If you want to specify the 数据类型, you can use the following constructor functions:
 '''
 
 

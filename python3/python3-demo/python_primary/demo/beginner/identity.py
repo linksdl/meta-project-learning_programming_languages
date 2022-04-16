@@ -31,7 +31,7 @@ print(_name)
 # and                 elif                import              return
 # as                  else                in                  try
 # assert              except              is                  while
-# break               finally             lambda              with
+# break               finally             函数              with
 # class               for                 not                 yield
 # continue            from                or
 # def                 global              pass

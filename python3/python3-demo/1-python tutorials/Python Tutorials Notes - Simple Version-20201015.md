@@ -392,7 +392,7 @@ Binary Types:	  	`bytes`	, `bytearray`, `memoryview`
 
 ```python
 x = 5
-print(type(x)) # get the data type of any object by using the type() function
+print(type(x)) # get the 数据类型 of any object by using the type() function
 ```
 
 ##### 1. Setting the Data Type

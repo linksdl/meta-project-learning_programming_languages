@@ -30,7 +30,7 @@ print(np.sort(arr))
 
 # Note: This method returns a copy of the array, leaving the original array unchanged.
 
-# You can also sort arrays of strings, or any other data type:
+# You can also sort arrays of strings, or any other 数据类型:
 
 # Sort the arry alphabetically:
 
