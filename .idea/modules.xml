@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/meta-project-learning.iml" filepath="$PROJECT_DIR$/.idea/meta-project-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/meta-project-learning_programming_languages.iml" filepath="$PROJECT_DIR$/.idea/meta-project-learning_programming_languages.iml" />
     </modules>
   </component>
 </project>
