@@ -24,6 +24,12 @@ int main() {
 	// 注意事项，访问数组的时候索引千万不要超过最大的索引。
 	// cout << arr1[5] << endl;
 
+    // 数组声明
+    double scores[5] = {};
+    double scores[5] = {0};
+    double scores[5] {};
+    double scores[5] = {22.0, 23.0};
+    double scores[5] = {22.0, 23.0, 33.4, 55.9, 30.0};
 
 	return 0;
 }
