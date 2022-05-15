@@ -21,7 +21,13 @@ void printVector(vector<int>& v) {
 		cout << *it << " ";
 	}
 	cout << endl;
+
+    for(vector<int>::iterator it1 = v.begin(); it1 != v.end(); it1++) {
+        cout << *it1 << " ";
+    }
 }
+
+
 
 
 void test01() {
